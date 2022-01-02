@@ -1,0 +1,4 @@
+/Users/dianaplosnita/Desktop/Ano 2/Lab di programmazione/Robot/CMakeFiles/robot.dir
+/Users/dianaplosnita/Desktop/Ano 2/Lab di programmazione/Robot/CMakeFiles/main.dir
+/Users/dianaplosnita/Desktop/Ano 2/Lab di programmazione/Robot/CMakeFiles/edit_cache.dir
+/Users/dianaplosnita/Desktop/Ano 2/Lab di programmazione/Robot/CMakeFiles/rebuild_cache.dir

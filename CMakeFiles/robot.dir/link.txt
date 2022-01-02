@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc librobot.a CMakeFiles/robot.dir/maze.cpp.o CMakeFiles/robot.dir/robot.cpp.o CMakeFiles/robot.dir/randomRobot.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib librobot.a

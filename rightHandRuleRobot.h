@@ -1,0 +1,4 @@
+class RightHandRuleRobot : public Robot
+{
+	
+}
